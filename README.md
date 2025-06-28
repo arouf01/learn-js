@@ -13,7 +13,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Statements and Comments
 - Variables and Constants
 - Data Types
-- Basic Operators (66%)
+- Basic Operators
 
 *
 
