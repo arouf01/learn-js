@@ -2,19 +2,19 @@
 
 Welcome to my JavaScript learning repository! This is where I document my progress as I learn JavaScript step by step. Each folder contains a specific topic or concept, with relevant code samples, mini-projects, or practice exercises.
 
-
 ## 📌 Why this repo?
 
-- 📖 Personal reference for future revision  
-- ✅ A structured approach to learning  
-- 🌱 To share my journey with others who might be learning too  
+- 📖 Personal reference for future revision
+- ✅ A structured approach to learning
+- 🌱 To share my journey with others who might be learning too
 
 ## 🧠 Topics Covered (So Far)
 
 - Statements and Comments
 - Variables and Constants
 - Data Types
-- Basic Operators (33%)
+- Basic Operators (66%)
+
 *
 
 ## 📬 How to Use
