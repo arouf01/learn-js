@@ -14,6 +14,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Variables and Constants
 - Data Types
 - Basic Operators
+- String Methods
 
 *
 
