@@ -48,4 +48,13 @@ console.log(parseFloat("10 20 30")); // 10
 console.log(parseFloat("10 years")); // 10
 console.log(parseFloat("years 10")); // NaN
 
+// 5. toExponential()
+// toExponential() returns a string, with a number rounded and written using exponential notation.
+
+let y = 9.656;
+
+console.log(y.toExponential(2));
+console.log(y.toExponential(4));
+console.log(y.toExponential(6));
+
 // Note: Read W3School Number Methods to learn more...
