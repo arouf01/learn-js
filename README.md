@@ -16,6 +16,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Basic Operators
 - String Methods
 - Math Objects
+- Number Methods
 
 *
 
