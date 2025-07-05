@@ -19,6 +19,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Number Methods
 - Boolean Values
 - Conditional Statements
+- Logical Operators
 
 *
 
