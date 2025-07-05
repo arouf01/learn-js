@@ -18,6 +18,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Math Objects
 - Number Methods
 - Boolean Values
+- Conditional Statements
 
 *
 
