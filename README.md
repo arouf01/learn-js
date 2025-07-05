@@ -17,6 +17,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - String Methods
 - Math Objects
 - Number Methods
+- Boolean Values
 
 *
 
