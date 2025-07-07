@@ -20,7 +20,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Boolean Values
 - Conditional Statements
 - Logical Operators
-- Functions (Basic Functions)
+- Functions (Arrow Functions)
 
 *
 
