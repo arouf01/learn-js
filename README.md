@@ -20,7 +20,8 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Boolean Values
 - Conditional Statements
 - Logical Operators
-- Functions (3. Function - Expressions, Anonymous, Callback)
+- Functions
+- Arrays (1. Creating and accessing arrays)
 
 *
 
