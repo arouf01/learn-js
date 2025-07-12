@@ -21,7 +21,7 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Conditional Statements
 - Logical Operators
 - Functions
-- Arrays (3. Iterating Over Arrays, 4. Combining, Slicing, and Joining)
+- Arrays (5. Array Tasks)
 
 *
 
