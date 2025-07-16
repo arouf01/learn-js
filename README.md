@@ -21,7 +21,8 @@ Welcome to my JavaScript learning repository! This is where I document my progre
 - Conditional Statements
 - Logical Operators
 - Functions
-- Arrays (5. Array Tasks)
+- Arrays
+- Loop (1. While Loop, 2. For Loop)
 
 *
 
